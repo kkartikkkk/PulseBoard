@@ -170,3 +170,4 @@ PulseBoard/
 - **Containerized full stack** with Docker Compose: FastAPI + PostgreSQL + MongoDB + Redis + React, one-command setup.
 - **Async-first backend**: FastAPI with asyncpg (PostgreSQL) and Motor (MongoDB) — non-blocking I/O throughout.
 "# TraceForge" 
+"# PulseBoard" 
